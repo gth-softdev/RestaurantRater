@@ -83,3 +83,9 @@ C:\ElevenFiftyProjects\RestaurantRaterAPI\RestaurantRaterAPI\obj\Debug\Restauran
 C:\ElevenFiftyProjects\RestaurantRaterAPI\RestaurantRaterAPI\obj\Debug\RestaurantRaterAPI.csproj.CopyComplete
 C:\ElevenFiftyProjects\RestaurantRaterAPI\RestaurantRaterAPI\obj\Debug\RestaurantRaterAPI.dll
 C:\ElevenFiftyProjects\RestaurantRaterAPI\RestaurantRaterAPI\obj\Debug\RestaurantRaterAPI.pdb
+C:\ElevenFiftyProjects\RestaurantRaterAPI\RestaurantRaterAPI\bin\EntityFramework.dll
+C:\ElevenFiftyProjects\RestaurantRaterAPI\RestaurantRaterAPI\bin\EntityFramework.SqlServer.dll
+C:\ElevenFiftyProjects\RestaurantRaterAPI\RestaurantRaterAPI\bin\EntityFramework.xml
+C:\ElevenFiftyProjects\RestaurantRaterAPI\RestaurantRaterAPI\bin\EntityFramework.SqlServer.xml
+C:\ElevenFiftyProjects\RestaurantRaterAPI\RestaurantRaterAPI\obj\Debug\RestaurantRaterAPI.Migrations.InitialMigration.resources
+C:\ElevenFiftyProjects\RestaurantRaterAPI\RestaurantRaterAPI\obj\Debug\RestaurantRaterAPI.csproj.GenerateResource.cache
