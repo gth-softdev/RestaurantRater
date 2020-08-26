@@ -37,7 +37,7 @@ namespace RestaurantRaterAPI.Controllers
 
         public async Task<IHttpActionResult> GetById(int id)
         {
-            Restaurant restaurant = await _context.Restaurants.FindAsync(id);
+            Restaurant restaurant = await _context.Restaurants.FindAsync(id); 
 
             if (restaurant != null)
             {
@@ -66,7 +66,6 @@ namespace RestaurantRaterAPI.Controllers
                 if (restaurant != null)
                 {
                     restaurant.Name = updateRestaurant.Name;
-                    restaurant.Rating = updateRestaurant.Rating;
                     await _context.SaveChangesAsync();
                     return Ok();
 
